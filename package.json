@@ -1,0 +1,35 @@
+{
+  "name": "jvblog",
+  "version": "0.1.0",
+  "description": "source code for node.js posts on http://joost.vunderink.net/blog",
+  "author": {
+    "name": "Joost Vunderink",
+    "email": "joost@vunderink.net",
+    "url": "http://joost.vunderink.net/blog"
+  },
+  "main": "src/jvblog.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joostvunderink/jvblog-node-samples.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "log4js": "^0.6.27",
+    "log4js-test-appender": "^0.1.1",
+    "mocha": "^2.3.3",
+    "mongoose": "^4.1.10",
+    "q": "^1.4.1",
+    "should": "^7.1.0",
+    "sinon": "^1.17.1"
+  },
+  "homepage": "http://joost.vunderink.net/blog",
+  "maintainers": [
+    {
+      "name": "Joost Vunderink",
+      "email": "joost@vunderink.net"
+    }
+  ],
+  "readme": "README.md"
+}
