@@ -13,13 +13,14 @@
     "url": "git+https://github.com/joostvunderink/jvblog-node-samples.git"
   },
   "license": "MIT",
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "dependencies": {
+    "express": "^4.13.3",
     "log4js": "^0.6.27",
     "log4js-test-appender": "^0.1.1",
     "mocha": "^2.3.3",
     "mongoose": "^4.1.10",
+    "paybox": "0.0.8",
     "q": "^1.4.1",
     "should": "^7.1.0",
     "sinon": "^1.17.1"
