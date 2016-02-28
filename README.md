@@ -10,6 +10,7 @@ src/mongoose-and-q | http://joost.vunderink.net/blog/2015/09/18/combining-mongoo
 src/log4js-unittest | http://joost.vunderink.net/blog/2015/09/27/checking-log4js-output-in-your-node-js-testsuite/
 src/paybox-integration | http://joost.vunderink.net/blog/2016/01/17/paybox-integration-using-node-js-with-example-html/
 src/unit-test-1 | http://joost.vunderink.net/blog/2016/02/21/automated-software-testing-part-3-writing-tests-and-refactoring/
+src/unit-test-2 | http://joost.vunderink.net/blog/2016/02/28/automated-software-testing-part-4-combining-similar-tests/
 
 # Running code
 
