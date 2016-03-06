@@ -25,7 +25,7 @@
     "q": "^1.4.1",
     "rewire": "^2.5.1",
     "should": "^7.1.1",
-    "sinon": "^1.17.1"
+    "sinon": "^1.17.3"
   },
   "homepage": "http://joost.vunderink.net/blog",
   "maintainers": [
