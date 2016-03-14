@@ -20,6 +20,7 @@
     "log4js-test-appender": "^0.1.1",
     "mocha": "^2.4.5",
     "moment": "^2.11.2",
+    "mongoose": "^4.4.7",
     "paybox": "0.0.8",
     "q": "^1.4.1",
     "rewire": "^2.5.1",

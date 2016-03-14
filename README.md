@@ -12,6 +12,7 @@ src/paybox-integration | http://joost.vunderink.net/blog/2016/01/17/paybox-integ
 src/unit-test-1 | http://joost.vunderink.net/blog/2016/02/21/automated-software-testing-part-3-writing-tests-and-refactoring/
 src/unit-test-2 | http://joost.vunderink.net/blog/2016/02/28/automated-software-testing-part-4-combining-similar-tests/
 src/unit-test-3 | http://joost.vunderink.net/blog/2016/03/06/automated-software-testing-part-5-spying/
+src/unit-test-4 | http://joost.vunderink.net/blog/2016/03/14/automated-software-testing-part-6-stubbing/
 
 # Running code
 
