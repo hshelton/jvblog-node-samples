@@ -20,12 +20,12 @@
     "log4js-test-appender": "^0.1.1",
     "mocha": "^2.4.5",
     "moment": "^2.11.2",
-    "mongoose": "^4.1.10",
     "paybox": "0.0.8",
     "q": "^1.4.1",
     "rewire": "^2.5.1",
     "should": "^7.1.1",
-    "sinon": "^1.17.3"
+    "sinon": "^1.17.3",
+    "sprintf-js": "^1.0.3"
   },
   "homepage": "http://joost.vunderink.net/blog",
   "maintainers": [
